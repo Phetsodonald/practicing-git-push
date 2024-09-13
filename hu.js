@@ -1,1 +1,1 @@
-console.log("we are getting better")
+console.log("we are getting good")
